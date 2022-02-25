@@ -94,7 +94,7 @@ al hacer doble click, se abrirá el editor.
 
 ![Sublime text](./img/vc_consola.png)
 
-Es un editor desarrollado por Microsoft.
+Es un editor desarrollado por Ss
 Tiene integrada el control de versiones mediante Git y Github para tener un seguimiento de tus proyectos. Brinda una cantidad de extensiones que facilitan el trabajo de un desarrollador.
 
 Para descargarlo, nos dirigimos al sitio oficial, en la sección Dowload y descargamos el instalador según nuestro Sistema Operativo:
